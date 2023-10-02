@@ -1,4 +1,4 @@
-#define aula3ex1
+#define aula1ex1
 
 /*1 - Escreva um programa que receba via teclado um tempo em segundos e converta
     para horas, minutos e segundos.
